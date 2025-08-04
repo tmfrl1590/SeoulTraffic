@@ -29,3 +29,10 @@ dependencyResolutionManagement {
 }
 
 include(":composeApp")
+include(":presentation")
+include(":domain")
+include(":data")
+include(":remote")
+include(":local")
+include(":core")
+include(":design")
